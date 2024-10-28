@@ -1,3 +1,3 @@
 # COVID-19-Data-Exploration
 Data Exploration
-Sachin agehjh
+Sachin Tandukar Nepal   
